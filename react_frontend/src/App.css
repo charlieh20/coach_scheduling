@@ -1,0 +1,10 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 85px;
+}
+
+.Content {
+  width: 80%
+}

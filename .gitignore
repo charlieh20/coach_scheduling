@@ -1,0 +1,27 @@
+### FRONTEND ###
+
+# dependencies
+react_frontend/node_modules
+react_frontend/.pnp
+react_frontend/.pnp.js
+
+# testing
+react_frontend/coverage
+
+# production
+react_frontend/build
+
+# misc
+react_frontend/.DS_Store
+react_frontend/.env.local
+react_frontend/.env.development.local
+react_frontend/.env.test.local
+react_frontend/.env.production.local
+
+react_frontend/npm-debug.log*
+react_frontend/yarn-debug.log*
+react_frontend/yarn-error.log*
+
+
+### BACKEND ###
+express_backend/node_modules
